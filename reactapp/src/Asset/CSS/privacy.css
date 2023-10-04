@@ -1,0 +1,43 @@
+/* Style for the Privacy Policy page */
+
+/* Container for the entire page */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Heading style */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  ul {
+    margin-left: 20px;
+  }
+  
+  /* Link style */
+  a {
+    color: #1976D2; /* Blue color for links */
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  /* Add more styles as needed */
+  

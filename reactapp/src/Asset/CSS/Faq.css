@@ -1,0 +1,75 @@
+/* Style for the FAQ Page Container */
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  /* Style for the FAQ Page Header */
+  .faq-header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #1976D2; /* Blue header background color */
+    padding: 10px; /* Add padding to the header */
+    border-radius: 5px 5px 0 0; /* Rounded corners for the top */
+  }
+  
+  .faq-heading {
+    font-size: 24px;
+    color: #fff; /* Header text color */
+  }
+  
+  /* Style for the FAQ Page Content */
+  .faq-content-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 0 0 5px 5px; /* Rounded corners for the bottom */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .faq-content {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Style for FAQ Questions and Answers */
+  .faq-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+  }
+  
+  .faq-question {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1976D2;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  
+  .faq-question:hover {
+    color: #0055a2;
+  }
+  
+  .faq-answer {
+    margin-top: 5px;
+    margin-left: 20px;
+  }
+  
+  /* Style for the FAQ Page Footer */
+  .faq-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .faq-footer p {
+    font-size: 14px;
+    color: #777;
+  }
+  
